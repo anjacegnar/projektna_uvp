@@ -21,7 +21,7 @@ def izlusci(html):
 def izlusci_iz_bloka(blok):
     """Funkcija, ki iz bloka izlušči url."""
     vzorec = re.compile(
-        r"""<a href="(?P<url>.*?)" data-ol-link-track=""", re.DOTALL
+        r'<a href="(?P<url>.*?)" data-ol-link-track=', re.DOTALL
     )
     najdba = vzorec.search(blok)
     slovar = {}
@@ -58,8 +58,43 @@ def izlusci_2(html):
         vzorec = r'<div class="work-title-and-author mobile">.*?Have read</span></li>'
         return re.findall(vzorec, html, flags=re.DOTALL)
 
-# prenesi_html("https://openlibrary.org/works/OL16336633W")
+# prenesi_html("https://openlibrary.org/works/OL38382569W")
 
 
+def izlusci_iz_bloka_2(blok):
+    """Funkcija, ki iz bloka izlušči podatke."""
+    vzorec = re.compile(
+        r'<a href="[^"]*">(?P<naslov>[^<]*)</a>'
+        r'<span class="first-published-date"[^>]*>.*?\((?P<leto_izdaje>\d{4})\)</span>'
+        r'<h2 class="edition-byline">.*?by <a href="[^"]*" itemprop="author">(?P<avtor>[^<]*)</a>'
+        r'<span itemprop="ratingValue">(?P<ocena>[^<]*)</span>'
+        r'<li class="readers-stats__review-count">.*?<span itemprop="reviewCount">(?P<stevilo_ocen>\d+)</span>'
+        r'<li class="reading-log-stat"><span class="readers-stats__stat">(?P<zeljeno_branje>\d+)</span> <span class="readers-stats__label">Want to read</span>'
+        r'<li class="reading-log-stat"><span class="readers-stats__stat">(?P<trenutno_branje>\d+)</span> <span class="readers-stats__label">Currently reading</span>'
+        r'<li class="reading-log-stat"><span class="readers-stats__stat">(?P<prebrano>\d+)</span> <span class="readers-stats__label">Have read</span>',
+        re.DOTALL
+    )
+    najdba = vzorec.search(blok)
+    slovar = {}
 
+    if najdba:
+        slovar["naslov"] = najdba.group("naslov")
+        slovar["leto_izdaje"] = najdba.group("leto_izdaje")
+        slovar["avtor"] = najdba.group("avtor")
+        slovar["ocena"] = najdba.group("ocena")
+        slovar["stevilo_ocen"] = najdba.group("stevilo_ocen")
+        slovar["zeljeno_branje"] = najdba.group("zeljeno_branje")
+        slovar["trenutno_branje"] = najdba.group("trenutno_branje")
+        slovar["prebrano"] = najdba.group("prebrano")
+    else:
+        slovar["naslov"] = None
+        slovar["leto_izdaje"] = None
+        slovar["avtor"] = None
+        slovar["ocena"] = None
+        slovar["stevilo_ocen"] = None
+        slovar["zeljeno_branje"] = None
+        slovar["trenutno_branje"] = None
+        slovar["prebrano"] = None
+    
+    return slovar
 
