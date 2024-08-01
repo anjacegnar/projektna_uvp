@@ -49,4 +49,17 @@ def pridobi_knjige(url):
 linki = pridobi_knjige("https://openlibrary.org/")
 
 
+def izlusci_2(html):
+    """Funkcija, ki iz html izlušči blok.""" # blok vsebuje podatke o knjigi, ki jih hočemo potem izluščiti
+    for link in linki:
+        link = "https://openlibrary.org/" + link
+        prenesi_html(link)
+        
+        vzorec = r'<div class="work-title-and-author mobile">.*?Have read</span></li>'
+        return re.findall(vzorec, html, flags=re.DOTALL)
+
+# prenesi_html("https://openlibrary.org/works/OL16336633W")
+
+
+
 
