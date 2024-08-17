@@ -1,88 +1,985 @@
 naslov,leto_izdaje,avtor,ocena,stevilo_ocen
-El hombre mas rico de Babilonia,2014,George Hill,3.00,6
-A Game of Thrones,1996,George R. R. Martin,4.24,552
-Fifty Shades of Grey,2000,E. L. James,3.92,231
-I Don&#39;t Love You Anymore,2020,Rithvik Singh,3.03,65
-Twisted Lies,2022,Ana Huang,4.07,117
-How to Win Friends and Influence People,1913,Dale Carnegie,4.28,256
-The Psychology of Money,2020,Morgan Housel,4.05,214
-Trading in the zone,2000,Mark Douglas,4.10,31
-Bumi,2014,Tere Liye,4.43,53
-Harry Potter and the Philosopher&#39;s Stone,1997,J. K. Rowling,4.25,736
-The Subtle Art of Not Giving a F*ck,2016,Mark Manson,4.12,603
+I Don&#39;t Love You Anymore,2020,Rithvik Singh,3.16,75
+Verity,2018,Colleen Hoover,3.94,93
+"Thinking, fast and slow",2011,Daniel Kahneman,4.10,172
 A Gentle Reminder,2020,Bianca Sparacino,3.94,118
-The Alchemist,1988,Paulo Coelho,3.80,262
-The Poems of Emily Dickinson Volume II,1890,Emily Dickinson,4.43,7
-The Handmaid&#39;s Tale,1985,Margaret Atwood,3.87,83
-The Silent Patient,2018,Alex Michaelides,4.12,126
-"Thinking, fast and slow",2011,Daniel Kahneman,4.11,171
-Ignite Me,2014,Tahereh Mafi,4.12,40
-Arrival and Departure,1943,Arthur Koestler,3.20,5
-God&#39;s good man: a simple love-story,1894,Marie Corelli,5.00,1
-Backgrounds of literature,1903,Hamilton Wright Mabie,3.50,2
-Vérité,1900,Émile Zola,3.50,2
-Claude Melnotte as a detective: and other stories,1875,Allan Pinkerton,3.00,1
-Leo Tolstoy,1903,Gilbert Keith Chesterton,4.00,1
-Menzogna e sortilegio,1948,Elsa Morante,4.00,2
-"Plays of protest: The naturewoman, The machine, The second-story man, Prince Hagen",1912,Upton Sinclair,3.00,1
-Jezebel&#39;s Daughter,1880,Wilkie Collins,5.00,1
-Pride and Prejudice,1813,Jane Austen,4.13,263
-Fear no evil,1988,Anatoly Shcharansky,4.38,8
-Novels (Adventures of Huckleberry Finn / Adventures of Tom Sawyer),1922,Mark Twain,3.93,14
-Animal Farm / Nineteen Eighty-Four,1978,George Orwell,4.35,17
-The Gruffalo,1999,Julia Donaldson,4.29,52
-Wuthering Heights,1847,Emily Brontë,3.93,202
-The Time Machine,1895,H. G. Wells,3.92,71
-Adventures of Huckleberry Finn,1876,Mark Twain,3.74,171
+A Good Girl&#39;s Guide to Murder,2019,Holly Jackson,4.14,80
+The Silent Patient,2018,Alex Michaelides,4.11,128
+The Power of Positive Thinking,1952,Norman Vincent Peale,4.10,96
+Twisted Games,2021,Ana Huang,3.77,61
+The Art of Seduction,1901,Robert Greene,3.79,61
+Harry Potter and the Goblet of Fire,1993,J. K. Rowling,4.31,245
+Can&#39;t Hurt Me: Master Your Mind and Defy the Odds,2018,David Goggins,4.48,79
+The Fault in Our Stars,2010,John Green,4.30,160
+I&#39;m Glad My Mom Died,2022,Jennette McCurdy,4.32,63
+101 Essays That Will Change The Way You Think,2018,Brianna Wiest,4.11,73
+The Hobbit,1937,J.R.R. Tolkien,4.28,420
+Sapiens: A Brief History of Humankind,2011,Yuval Noah Harari,4.22,131
+November 9,2015,Colleen Hoover,4.16,70
+Animal Farm,1945,George Orwell,4.09,452
+Harry Potter and the Order of the Phoenix,2003,J. K. Rowling,4.31,249
+Fahrenheit 451,1953,Ray Bradbury,3.95,374
+Read People Like a Book,2020,Patrick King,4.07,85
+The Laws of Human Nature,2018,Robert Greene,4.18,65
+The Summer I Turned Pretty,2000,Jenny Han,4.46,93
+Twisted Hate,2022,Ana Huang,3.70,64
+"Heartstopper, Volume 1",2018,Alice Oseman,4.35,144
+Wonder,2001,R. J. Palacio,4.33,215
+Charlotte&#39;s Web,1952,E. B. White,4.00,324
+Where the Crawdads Sing,2018,Delia Owens,4.33,84
+A Court of Thorns and Roses,2015,Sarah J. Maas,3.97,94
+Dune,1965,Frank Herbert,4.28,344
+The Art of War,1910,Sun Tzu,4.07,92
+Harry Potter and the Half-Blood Prince,2005,J. K. Rowling,4.41,169
+Tuesdays with Morrie,1994,Mitch Albom,3.86,74
+The Song of Achilles,2011,Madeline Miller,4.30,106
+Elon Musk,2013,Ashlee Vance,4.11,140
+King of Wrath,2022,Ana Huang,4.41,46
+The Da Vinci Code,2003,Dan Brown,3.91,141
+No Longer Human,1948,Osamu Dazai,4.03,86
+If he had been with me,2013,Laura Nowlin,4.09,65
+The Sea of Monsters,2005,Rick Riordan,4.49,138
+Catching Fire,2009,Suzanne Collins,4.12,227
+Brave New World,1932,Aldous Huxley,3.92,383
+"It Ends with Us, It Starts with Us: Ebook Collection",2022,Colleen Hoover,3.71,38
+We Were Liars,2014,E. Lockhart,4.14,42
+The Intelligent Investor,2003,"Graham, Benjamin;Zweig, Jason",4.57,35
+The Power of Habit: Why We Do What We Do in Life and Business,2012,Charles Duhigg,3.92,100
+"Good Girl, Bad Blood",2020,Holly Jackson,4.21,39
+Why Men Love Bitches,2022,Sherry Argov,4.36,14
+Normal People,2018,Sally Rooney,3.98,54
+The Secret,2000,Rhonda Byrne,3.90,31
+L’étranger,1942,Albert Camus,3.92,80
+The Richest Man in Babylon,1983,George S. Clason,4.33,54
+The BFG,1980,Roald Dahl,4.17,124
+Before the Coffee Gets Cold,2019,Toshikazu Kawaguchi,3.71,41
+The Hate U Give,2017,Angie Thomas,4.41,106
+Foundation,1951,Isaac Asimov,4.08,253
+The Bell Jar,1963,Sylvia Plath,4.21,29
+Steve Jobs,2011,Walter Isaacson,4.12,141
+Die Verwandlung,1915,Franz Kafka,4.13,78
+Wings of Fire,1999,A. P. J. Abdul Kalam,4.38,68
+Hujan,2018,Tere Liye,4.18,112
+The Invisible Man,1897,H. G. Wells,3.84,90
+I Fell in Love with Hope,2022,Lancali,4.52,23
+The Secret History,1992,Donna Tartt,4.03,63
+The Outsiders,1967,S. E. Hinton,4.41,97
+Looking for Alaska,2005,John Green,3.87,104
+Frankenstein or The Modern Prometheus,1818,Mary Shelley,3.91,181
+And Then There Were None,1939,Agatha Christie,4.23,131
+The Secret Language of Birthdays: Personology Profiles for Each Day of the Year,1992,Gary Goldschneider,4.24,50
+"The Lion, the Witch and the Wardrobe",1950,C.S. Lewis,4.12,105
+Ender&#39;s Game,1985,Orson Scott Card,4.35,361
+The Duke and I,2000,Julia Quinn,3.88,33
+Shatter Me Complete Collection,2011,Tahereh Mafi,4.27,22
+Workbook for the Mountain Is You,2022,Smart Reads,3.88,24
+Fourth Wing,2023,Rebecca Yarros,3.95,39
 Alice&#39;s Adventures in Wonderland,1865,Lewis Carroll,4.01,171
-Mördare utan ansikte,1993,Henning Mankell,3.48,25
-"The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers",1953,Robert Louis Heilbroner,3.71,14
-Runaway Ralph,1970,Beverly Cleary,4.12,41
-The Jungle,1905,Upton Sinclair,3.90,41
-Das Glasperlenspiel,1943,Hermann Hesse,3.86,36
-Stellaluna,1990,Janell Cannon,4.36,99
-Take Back the Right,2004,Philip Gold,3.00,1
-Surgical dressings and wound healing,1971,Keith James Harkiss,3.00,1
-We&#39;ll never be apart,2015,Emiko Jean,5.00,2
-Dvoe na kraiŁu sveta,2013,Tat£iŁana AliŁushina,4.00,1
-The Darcy cousins,2010,Monica Fairview,5.00,1
-"Black God, Vol. 4",2020,Dall-Young Lim,1.00,1
-Picture the dead,2010,Adele Griffin,4.00,1
-Āmi tomāra bandhu,2013,Bināẏaka Bandyopādhyāẏa,4.00,1
-Night Way,1981,Janet Dailey,5.00,1
-Sunshine Nanny,1987,Pam Lyons,4.00,1
-A touch morbid,2012,Leah Clifford,4.00,1
-Witch&#39;s Journey,2001,Karen McCullough,3.00,1
-Baby Dreams,1996,Hannah Howell,1.00,1
-Навеки,2003,Johanna Lindsey,5.00,1
-Pride and Prejudice,1813,Jane Austen,4.13,263
-Do you love me?,2001,Cyndy Szekeres,5.00,1
-Wedding for One / Tattoo for Two,2003,Dawn Atkins,5.00,1
-Treasure,1988,Clive Cussler,3.92,136
-The Bachman Books,1985,"King, Stephen",3.81,139
-Pacific Vortex!,1982,Clive Cussler,3.90,120
-Cyclops,1986,Clive Cussler,3.94,127
-The Bachman Books,1987,"Bachman, Richard.",4.00,1
-Wolves of the Calla,2003,"King, Stephen",4.04,169
-Inca Gold,1994,Clive Cussler,3.75,24
-Storm of the Century,1999,"King, Stephen",4.00,11
-Sahara,1982,Clive Cussler,4.46,24
-Works (Carrie / Night Shift / &#39;Salem&#39;s Lot / Shining),1981,Stephen King,4.80,20
-Deep Six,1984,Clive Cussler,3.90,59
-Vixen 03,1976,Clive Cussler,4.27,22
-Song of Susannah,2004,"King, Stephen Schriftsteller",5.00,1
-Treasure,1988,Clive Cussler,3.92,136
-The modern tradition,1968,Daniel Francis Howard,5.00,1
-Mars: Our Mysterious Neighbor,1967,Isaac Asimov,4.00,1
-Anne of Green Gables,1908,Lucy Maud Montgomery,4.50,2
-Standardized test preparation,2000,Bob Partain,2.00,1
-Introduction to public services for library technicians,1972,Marty Bloomberg,4.00,2
-Teaching Resources -- Unit Five Drama -- Grade Nine,2006,"Prentice-Hall, inc.",3.00,1
-Fundamentals of Literary Interpretation,2008,Julie Clark,5.00,1
-The mercury reader,2001,University of New Mexico. Department of ...,4.00,1
-"Language, music, and mind",1993,Diana Raffman,4.00,2
-Auctions,2016,Timothy P. Hubbard,5.00,2
-The LOCUS distributed system architecture,1985,Bruce James Walker,3.00,1
-Machine interpretation of line drawings,1986,Kökichi Sugihara,4.50,2
-Border wars,2011,Tom Barry,5.00,1
-Open for business,2012,Judith A. Layzer,3.00,1
+Ready Player One,2008,Ernest Cline,4.04,269
+Throne of Glass,2012,Sarah J. Maas,4.16,62
+Ugly Love,2014,Colleen Hoover,4.08,162
+The Alchemist,1988,Paulo Coelho,3.81,263
+The Power of Your Subconscious Mind,1963,Joseph Murphy,4.11,163
+Harry Potter and the Chamber of Secrets,1998,J. K. Rowling,4.18,404
+Bible,1200,Bible,3.96,57
+The Hunger Games,2008,Suzanne Collins,4.10,398
+Nineteen Eighty-Four,1949,George Orwell,4.30,284
+Fifty Shades of Grey,2000,E. L. James,3.92,232
+Harry Potter and the Deathly Hallows,2007,J. K. Rowling,4.29,366
+The 7 Habits of Highly Effective People,1989,Stephen R. Covey,3.97,158
+Icebreaker,2020,Hannah Grace,4.29,87
+Diary of a Wimpy Kid,2002,Jeff Kinney,4.19,280
+To Kill a Mockingbird,1960,Harper Lee,4.10,164
+The Cruel Prince,2018,Holly Black,4.06,125
+The Lightning Thief,2005,Rick Riordan,4.35,292
+Twilight,2005,Stephenie Meyer,3.64,326
+"Red, White &amp; Royal Blue",2019,Casey McQuiston,4.18,155
+Harry Potter and the Prisoner of Azkaban,1999,J. K. Rowling,4.30,516
+Twisted Lies,2022,Ana Huang,4.07,118
+The Seven Husbands of Evelyn Hugo,2017,Taylor Jenkins Reid,4.21,117
+The Son of Neptune,2011,Rick Riordan,4.26,103
+Unravel me,2013,Tahereh Mafi,3.97,33
+Who Moved My Cheese?,1998,Spencer Johnson,3.86,73
+Speak,1999,Laurie Halse Anderson,3.91,89
+The Cat in the Hat,1957,Dr. Seuss,4.09,91
+All your perfects,2018,Colleen Hoover,3.79,34
+The God of Small Things,1997,Arundhati Roy,3.81,57
+Marketing management,1973,Philip Kotler,4.00,27
+All the Light We Cannot See,2014,Anthony Doerr,4.24,68
+Good Omens,1990,Neil Gaiman,4.48,73
+Pride and Prejudice,1813,Jane Austen,4.13,268
+Freakonomics,2005,Steven D. Levitt,3.89,160
+The Boy in the Striped Pyjamas,2006,John Boyne,4.00,48
+Rodrick Rules,2008,Jeff Kinney,4.42,123
+Laut Bercerita,2017,Leila S. Chudori,4.20,69
+Mein Kampf,1922,Adolf Hitler,3.81,37
+The Green Mile,1996,Stephen King,4.30,80
+Catch-22,1961,Joseph Heller,4.10,173
+The Wrong Bride,2022,Catharina Maura,3.76,25
+The Martian,2011,Andy Weir,4.38,280
+Murder on the Orient Express,1933,Agatha Christie,4.08,91
+James and the Giant Peach,1961,Roald Dahl,3.94,118
+Double Down,2010,Jeff Kinney,4.52,96
+The Wonderful Wizard of Oz,1900,L. Frank Baum,3.94,104
+Ignite Me,2014,Tahereh Mafi,4.12,40
+Adventures of Huckleberry Finn,1876,Mark Twain,3.75,172
+Cabin Fever,2007,Jeff Kinney,4.51,118
+Do Epic Shit,2021,Ankur Warikoo,4.09,22
+Fire &amp; Blood,2018,George R. R. Martin,4.09,34
+Romancing Mister Bridgerton,2002,Julia Quinn,4.38,34
+Slaughterhouse-Five,1968,Kurt Vonnegut,4.19,233
+三体,2008,刘慈欣,3.92,196
+"Zero to One: Notes on Startups, or How to Build the Future",2001,Peter A. Thiel,4.22,49
+The Midnight Library,2020,Matt Haig,4.17,36
+Married at first sight,2015,Gu Lingfei,4.69,42
+The Ballad of Songbirds and Snakes,2020,Suzanne Collins,4.28,32
+Inheritance Games,2020,Jennifer Lynn Barnes,4.11,46
+Fantastic Mr Fox,1970,Roald Dahl,3.91,104
+Harry Potter and the Cursed Child,2001,Jack Thorne,4.00,100
+Me Before You,2012,Jojo Moyes,4.17,53
+A Tale of Two Cities,1800,Charles Dickens,3.77,172
+कामसूत्र,1883,Mallanaga Vātsyāyana,3.69,26
+The Curious Incident of the Dog in the Night-Time,1950,Mark Haddon,4.00,201
+The Picture of Dorian Gray,1890,Oscar Wilde,4.10,79
+Dog Man,2015,Dav Pilkey,4.59,107
+Beloved,1987,Toni Morrison,3.85,61
+Angels &amp; Demons,2000,Dan Brown,3.63,212
+Confess,2015,Colleen Hoover,4.23,56
+A Thousand Splendid Suns,2007,Khaled Hosseini,4.43,89
+Think Like a Monk,2020,Jay Shetty,3.89,56
+A Wrinkle in Time,1962,Madeleine L&#39;Engle,3.93,146
+"Men are From Mars, Women are From Venus",1992,John Gray,3.72,46
+The Titan&#39;s Curse,2007,Rick Riordan,4.46,123
+Dracula,1897,Bram Stoker,4.06,127
+Cien años de soledad,1967,Gabriel García Márquez,3.97,61
+Things Fall Apart,1958,Chinua Achebe,4.00,61
+The Very Hungry Caterpillar,1929,Eric Carle,3.97,88
+The 48 Laws of Power,1998,Robert Greene,4.12,792
+It Ends With Us,2012,Colleen Hoover,4.23,959
+Moby Dick,1851,Herman Melville,3.81,127
+A child called &quot;it&quot;,1987,David J. Pelzer,4.58,64
+Hamlet,1603,William Shakespeare,4.00,139
+The Subtle Art of Not Giving a F*ck,2016,Mark Manson,4.12,603
+Atomic Habits,2016,James Clear,4.07,876
+"I, Robot",1950,Isaac Asimov,4.22,152
+Latidos Que No Dije,2022,Roos,4.33,492
+Think and Grow Rich,1937,Napoleon Hill,4.02,374
+Harry Potter and the Philosopher&#39;s Stone,1997,J. K. Rowling,4.25,741
+It Starts with Us,2022,Colleen Hoover,3.99,310
+"Rich Dad, Poor Dad",1990,Robert T. Kiyosaki,4.08,673
+Control Your Mind and Master Your Feelings,2019,Eric Robertson - undifferentiated,3.80,352
+A Game of Thrones,1996,George R. R. Martin,4.24,560
+A Court of Mist and Fury,2014,Sarah J. Maas,3.96,363
+Twisted Love,2021,Ana Huang,3.75,172
+The Psychology of Money,2020,Morgan Housel,4.05,215
+How to Win Friends and Influence People,1913,Dale Carnegie,4.28,257
+Haunting Adeline,2021,H. D. Carlton,3.62,152
+Um casamento arranjado,2019,Zana Kheiron,4.13,1120
+The Love Hypothesis,2021,Ali Hazelwood,4.12,191
+Shatter Me,2011,Tahereh Mafi,3.97,136
+The Power of Now: A Guide to Spiritual Enlightenment,1997,Eckhart Tolle,3.72,87
+Hunting Adeline,2022,H. D. Carlton,3.78,69
+The Giver,1993,Lois Lowry,4.04,264
+It,1986,Stephen King,4.10,428
+The Spanish Love Deception,2021,Elena Armas,3.91,57
+The Book Thief,1998,Markus Zusak,4.22,112
+The Summer I Turned Pretty Trilogy,2009,Jenny Han,4.40,68
+A Brief History of Time,1988,Stephen Hawking,4.15,185
+Carrie,1974,Stephen King,4.01,132
+They Both Die at the End,2017,Adam Silvera,4.07,56
+The Catcher in the Rye,1900,J. D. Salinger,3.60,322
+Punk 57,2016,Penelope Douglas,3.86,44
+Six of Crows,2001,Leigh Bardugo,4.60,67
+Don&#39;t Believe Everything You Think,2022,Joseph Nguyen,4.24,45
+The Eyes of Darkness,1981,Dean Koontz,3.87,167
+The Perks of Being a Wallflower,1999,Stephen Chbosky,4.28,85
+Milk and Honey,2014,Rupi Kaur,4.04,106
+The Shining,1977,Stephen King,4.17,240
+Dog Days,2004,Carol Cox,4.46,134
+Matilda,1988,Roald Dahl,4.39,237
+A Little Life,2015,Hanya Yanagihara,3.97,71
+Romeo and Juliet,1597,William Shakespeare,3.64,163
+Girl In pieces: a Novel,2016,Kathleen Glasgow,4.34,58
+Little Women,1848,Louisa May Alcott,4.11,106
+Wuthering Heights,1847,Emily Brontë,3.93,203
+Ikigai: The Japanese Secret to a Long and Happy Life,2017,Héctor García,4.00,58
+The Adventures of Sherlock Holmes [12 stories],1892,Arthur Conan Doyle,4.19,151
+Charlie and the Chocolate Factory,1964,Roald Dahl,4.03,231
+Deep Work: Rules for Focused Success in a Distracted World,2016,Cal Newport,3.87,128
+Lord of Flies,1954,William Golding,3.65,327
+Lolita,1955,Vladimir Nabokov,3.94,82
+Reminders of Him,2022,Colleen Hoover,4.06,52
+The Handmaid&#39;s Tale,1985,Margaret Atwood,3.87,83
+Le petit prince,1943,Antoine de Saint-Exupéry,4.40,144
+12 Rules for Life: An Antidote to Chaos,2015,Jordan B. Peterson,3.86,97
+How to Talk to Anyone,1999,Leil Lowndes,3.77,39
+Misery,1978,Stephen King,4.08,103
+Coraline,2002,Neil Gaiman,4.04,170
+Girl in Pieces,2016,Kathleen Glasgow,4.22,63
+Hatchet,1986,Gary Paulsen,4.19,139
+The Kite Runner,2003,Khaled Hosseini,4.08,98
+The Lord of the Rings,1954,J.R.R. Tolkien,4.55,78
+The Great Gatsby,1920,F. Scott Fitzgerald,3.99,146
+Holes,1988,Louis Sachar,4.24,165
+The Old Man and the Sea,1952,Ernest Hemingway,3.91,192
+Pet Sematary,1983,Stephen King,4.06,162
+The fellowship of the ring,1954,J.R.R. Tolkien,4.35,325
+The Lost Hero,2010,Rick Riordan,4.44,133
+Better Than the Movies,2021,Lynn Painter,3.71,42
+The Hitch Hiker&#39;s Guide to the Galaxy,1979,Douglas Adams,4.52,130
+Divergent,2010,Veronica Roth,3.93,168
+Het Achterhuis,1944,Anne Frank,4.21,108
+The Four Agreements,1997,Don Miguel Ruiz,3.91,47
+You&#39;ve Reached Sam,2021,Dustin Thao,4.09,68
+Of Mice and Men,1937,John Steinbeck,3.96,237
+American Psycho,1991,Bret Easton Ellis,3.89,83
+The Maze Runner,2009,James Dashner,3.98,125
+... Trotzdem Ja zum Leben sagen,1946,Viktor E. Frankl,4.29,152
+Meditations,1626,Marcus Aurelius,3.96,107
+To All the Boys I&#39;ve Loved Before,2014,Jenny Han,4.46,54
+"Heartstopper, Volume 2",2019,Alice Oseman,4.08,40
+Percy Jackson&#39;s Greek Gods,2014,Rick Riordan,4.69,67
+The Color Purple,1976,Alice Walker,4.21,73
+É assim que começa,2022,Colleen Hoover,4.19,31
+A Thousand Boy Kisses,2016,Tillie Cole,3.26,19
+Analisis laporan keuangan,2012,Kasmir,4.33,45
+Trading in the zone,2000,Mark Douglas,4.10,31
+Influence,1983,Robert B. Cialdini,3.96,55
+A Gentleman in Moscow,2016,Amor Towles,3.89,66
+"Rich Dad, Poor Dad for Teens",2004,Robert T. Kiyosaki,3.79,24
+The Name of the Wind,2007,Patrick Rothfuss,4.29,169
+The God Delusion,2001,Richard Dawkins,3.86,121
+Northern Lights,1995,Philip Pullman,3.98,191
+Guess How Much I Love You,1839,Sam McBratney,4.27,59
+The Mark of Athena,2011,Rick Riordan,4.51,96
+Hopeless,2013,Colleen Hoover,4.00,19
+Flowers in the Attic,1979,V. C. Andrews,4.05,64
+Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time,2001,Brian Tracy,4.00,40
+Where the Wild Things Are,1600,Maurice Sendak,4.18,90
+Esperanza Rising,2000,Pam Muñoz Ryan,4.13,38
+The Sweetest Oblivion,2018,Danielle Lori,3.87,23
+The Prince,1515,Niccolò Machiavelli,3.78,81
+The Grapes of Wrath,1939,John Steinbeck,3.95,82
+Macbeth,1508,William Shakespeare,3.95,109
+Marketing Management,2016,Philip Kotler,4.37,35
+Shadow and Bone,2012,Leigh Bardugo,4.07,27
+Wrecking Ball,2019,Jeff Kinney,3.98,49
+The Help,2009,Kathryn Stockett,4.34,89
+"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",2014,Bessel A. Van Der Kolk,3.83,24
+Contact,1985,Carl Sagan,4.21,94
+The Final Empire,2001,Brandon Sanderson,4.39,109
+The Art of War,1953,Sun Tzu,3.83,24
+Insomnia,1994,Stephen King,3.88,94
+Heart of Darkness,1899,Joseph Conrad,3.46,108
+The Magic of Thinking Big,1957,David Joseph Schwartz,4.43,23
+The Adventures of Tom Sawyer,1817,Mark Twain,3.99,123
+Outlander,1991,Diana Gabaldon,4.14,37
+Love on the Brain,2022,Ali Hazelwood,4.58,12
+I Know Why the Caged Bird Sings,1969,Maya Angelou,4.09,33
+A Clockwork Orange,1962,Anthony Burgess,4.06,49
+In Cold Blood,1709,Truman Capote,3.99,78
+The Silver Eyes (Five Nights At Freddy&#39;s #1),2001,Scott Cawthon,4.69,58
+The Games People Play,1975,Eric Berne,3.97,39
+Because of Winn-Dixie,2000,Kate DiCamillo,4.23,90
+The Long Haul,2000,Jeff Kinney,4.38,95
+Thirteen reasons Why,2007,Jay Asher,3.66,73
+The Two Towers,1954,J.R.R. Tolkien,4.36,193
+The Strange Case of Dr. Jekyll and Mr. Hyde,1875,Robert Louis Stevenson,3.90,111
+Howl&#39;s Moving Castle (Howl&#39;s Moving Castle #1),1986,Diana Wynne Jones,4.46,87
+Ὀδύσσεια,1488,Όμηρος (Homer),4.02,126
+Things We Never Got Over,2022,Collen hoover,4.29,17
+Jurassic Park,1990,Michael Crichton,4.06,144
+"Eragon: (The Inheritance Cycle Series, Book 1)",1998,Christopher Paolini,3.80,119
+Call Me by Your Name,2007,André Aciman,3.98,59
+Le Comte de Monte Cristo,1830,Alexandre Dumas,4.32,160
+My Fault,2017,Mercedes Ron,4.00,17
+Alice in Wonderland in Five Acts,1897,Lewis Carroll,4.03,65
+Jane Eyre,1847,Charlotte Brontë,4.05,127
+The Stand,1978,Stephen King,4.29,77
+All the bright places,2015,Jennifer Niven,4.26,53
+One Of Us Is Lying,2017,Karen M. McManus,4.19,27
+the sun and her flowers,2017,Rupi Kaur,4.08,38
+P.S. I Still Love You,2000,Jenny Han,4.06,53
+The A.B.C. Murders,1936,Agatha Christie,4.08,48
+Mockingjay,2010,Suzanne Collins,3.70,204
+You Are a Badass,1792,Jen Sincero,3.95,19
+Credence,2020,Penelope Douglas,4.85,13
+Flowers for Algernon,1966,Daniel Keyes,4.26,76
+Number the Stars,1901,Lois Lowry,4.18,91
+Surrounded by Idiots,2019,Thomas Erikson,4.17,18
+The War of the Worlds,1898,H. G. Wells,3.81,138
+Gone Girl,2011,Gillian Flynn,3.64,50
+The Courage To Be Disliked,2018,Ichiro Kishimi and Fumitake Koga,4.11,18
+Green Eggs and Ham,1960,Dr. Seuss,4.03,128
+The Getaway,2017,Jeff Kinney,4.62,52
+The Battle of the Labyrinth,2005,Rick Riordan,4.44,90
+&#39;Salem’s Lot,1975,Stephen King,4.10,71
+The Silmarillion,1977,J.R.R. Tolkien,3.97,98
+All He&#39;ll Ever Be,2019,W Winters,3.77,30
+The 4-Hour Work Week,2006,Timothy Ferriss,3.69,68
+Siddhartha,1922,Hermann Hesse,4.10,48
+Leonardo,1946,Leonardo da Vinci,3.97,31
+Born a Crime,2016,Trevor Noah,4.60,50
+The House of Hades,2013,Rick Riordan,4.26,93
+Where the Red Fern Grows,1961,Wilson Rawls,4.23,90
+Dork Diaries: Tales From a Not-So-Fabulous Life,2009,Rachel Renée Russell,4.41,66
+East of Eden,1952,John Steinbeck,4.01,78
+Push,1996,Sapphire,3.67,15
+"Brown Bear, Brown Bear, What Do You See?",1967,Bill Martin Jr.,4.08,53
+The Invisible Life of Addie LaRue,2015,V. E. Schwab,4.02,44
+Autobiography of a Yogi,1946,Yogananda Paramahansa,4.23,35
+The Time Machine,1895,H. G. Wells,3.90,73
+Women Who Love Too Much,1985,Robin Norwood,3.86,14
+The Silver Eyes (Five Nights At Freddy&#39;s #1),2001,Scott Cawthon,4.69,58
+The Gunslinger,1976,Stephen King,4.18,38
+Drama,2012,Raina Telgemeier,4.41,61
+Ego is the Enemy,2016,Ryan Holiday,3.62,29
+Bumi,2014,Tere Liye,4.44,54
+Eleanor &amp; Park,2012,Rainbow Rowell,4.10,58
+Archer&#39;s Voice,2014,Mia Sheridan,3.60,30
+The Last Olympian,2009,Rick Riordan,4.45,106
+The Witches,1983,Roald Dahl,4.17,82
+The Maddest Obsession,2019,Danielle Lori,4.10,30
+Breakthrough advertising,1966,Eugene M. Schwartz,4.67,9
+I Have to Tell You Something,2022,Zara Bas,3.73,48
+Life of Pi,2001,Yann Martel,3.94,129
+The Blood of Olympus,2001,Rick Riordan,4.40,87
+The Phantom Tollbooth,1961,Norton Juster,4.12,97
+"Guns, germs, and steel",1991,Jared Diamond,4.16,132
+It&#39;s Not Summer Without You,2010,Jenny Han,4.19,26
+The Secret Garden,1911,Frances Hodgson Burnett,4.05,61
+The Deep End,2009,Jeff Kinney,4.68,41
+Circe,2018,Madeline Miller,4.09,77
+Преступление и наказание,1866,Фёдор Михайлович Достоевский,4.20,94
+Anna Karenina,1876,Лев Толстой,4.16,37
+New Moon,2006,Stephenie Meyer,4.14,59
+Do Androids Dream of Electric Sheep?,1968,Philip K. Dick,4.04,142
+The School for Good and Evil,2007,Soman Chainani,4.69,49
+Quiet,2012,Susan Cain,4.10,80
+Neuromancer,1984,William Gibson,4.01,70
+As Good As Dead,2021,Holly Jackson,4.37,19
+The Immortals of Meluha,2010,Amish Tripathi,3.71,31
+Treasure Island,1880,Robert Louis Stevenson,3.74,74
+Outliers,2008,Malcolm Gladwell,3.99,98
+"Padre Rico, Padre Pobre",2003,Robert T. Kiyosaki,3.76,29
+A Wizard of Earthsea,1968,Ursula K. Le Guin,3.99,109
+The Meltdown,2011,Jeff Kinney,4.47,60
+The Road,2006,Cormac McCarthy,3.86,132
+Emotional Intelligence,1995,Daniel Goleman,4.32,28
+The Way I Used To Be,2016,Amber Smith,3.95,21
+Old School,1997,Jeff Kinney,4.51,85
+Great Expectations,1861,Charles Dickens,3.70,131
+A short history of nearly everything,2003,Bill Bryson,4.14,87
+It didn&#39;t start with you,2016,Mark Wolynn,3.12,8
+A Court of Wings and Ruin,2017,Sarah J. Maas,4.23,31
+"Are You There God? It&#39;s Me, Margaret.",1970,Judy Blume,4.07,30
+The Gruffalo,1999,Julia Donaldson,4.29,52
+Inside Out &amp; Back Again,2011,Thanhha Lai,3.90,48
+The Eye of the World (The Wheel of Time Book 1),1990,Robert Jordan,3.88,119
+The Sun is Also a Star,2016,Nicola Yoon,3.81,31
+Million Kisses in Your Lifetime,2022,Monica Murphy,3.73,15
+David Kibbe&#39;s metamorphosis,1987,David Kibbe,4.43,7
+Interview With the Vampire,1976,Anne Rice,3.93,74
+On Writing,1999,Stephen King,4.15,66
+The intelligent investor: a book of practical counsel,1949,Benjamin Graham,3.96,24
+Into the Wild,2003,Erin Hunter,4.45,73
+Don&#39;t Let the Pigeon Drive the Bus!,2003,Mo Willems,4.32,81
+Black Ties and White Lies,2023,Kat Singleton,3.29,14
+Picasso,1926,Pablo Picasso,3.86,21
+King of Pride,2023,Ana Huang,4.27,11
+American Gods,2001,Neil Gaiman,4.27,49
+The Hating Game,2016,Sally Thorne,3.61,18
+Emma,1815,Jane Austen,3.95,41
+"When You&#39;re Ready, This Is How You Heal",2022,Brianna Wiest,4.36,14
+End of days: predictions and prophecies about the end of the world,2008,Sylvia Browne,4.37,35
+Chemistry: The Central Science,1977,Theodore L. Brown,4.24,29
+The Intelligent Investor,1965,Benjamin Graham,3.67,15
+The Bachman Books (Long Walk / Rage / Roadwork / Running Man),1985,Stephen King,3.80,141
+Michelle Obama in Her Own Words,2008,Michelle Obama,4.60,20
+Mark Z. Danielewski&#39;s House of leaves,1998,Mark Z. Danielewski,4.27,48
+Rebecca,1938,Daphne du Maurier,4.15,39
+The Scarlet Letter,1850,Nathaniel Hawthorne,3.24,88
+Corrupted Chaos,2022,Shain Rose,3.57,14
+A Midsummer Night&#39;s Dream,1600,William Shakespeare,3.65,72
+The Deal,2015,Elle Kennedy,4.43,21
+Alice&#39;s Adventures in Wonderland / Through the Looking Glass,1889,Lewis Carroll,4.03,92
+Does It Hurt?,2022,H. D. Carlton,4.40,10
+Red Queen,2015,Victoria Aveyard,3.93,27
+Restore me,2018,Tahereh Mafi,4.14,21
+Clean Code: A Handbook of Agile Software Craftsmanship,2008,Robert C. Martin,4.43,35
+Under the Dome,1925,Stephen King,3.84,50
+The Elite (The Selection #2),2012,Kiera Cass,4.09,32
+Sense and Sensibility,1811,Jane Austen,3.67,30
+Im Westen nichts Neues,1928,Erich Maria Remarque,4.18,74
+One of us is lying,2017,Karen M. McManus,4.24,33
+The Godfather,1969,Mario Puzo,4.38,34
+Sula,1973,Toni Morrison,3.79,38
+If we were villains,2017,M. L. Rio,4.07,14
+Go Ask Alice,1971,Beatrice Sparks,3.73,45
+The Bad Beginning,1999,Lemony Snicket,4.07,73
+Dog Man: A Tale of Two Kitties,1999,Dav Pilkey,4.56,84
+The Last Straw,1999,Jeff Kinney,4.09,53
+The Magician&#39;s Nephew,1955,C.S. Lewis,4.07,89
+Never Split the Difference: Negotiating As If Your Life Depended On It,2016,Chris Voss,4.31,39
+Why Has Nobody Told Me This Before?,2022,Julie Smith,3.62,13
+BICARA ITU ADA SENINYA,2018,Oh Su Hyang,4.24,42
+Daisy Jones &amp; The Six: A Novel,2019,Taylor Jenkins Reid,3.85,34
+Fight Club,1996,Chuck Palahniuk,4.01,109
+The Call of the Wild,1903,Jack London,3.85,62
+Aristotle and Dante discover the secrets of the universe,2000,Benjamin Alire Sáenz,4.37,46
+Abraham Lincoln,1926,Carl Sandburg,4.18,22
+The encyclopedia Americana 1958- Antartic,1958,Americana Corporation,5.00,11
+Shoe Dog: A Memoir by the Creator of Nike,2016,Phil Knight,4.60,42
+The Wicked King,2019,Holly Black,4.25,16
+The Chronicles of Narnia: The Complete Set,1970,C.S. Lewis,4.21,66
+Tender is the Flesh,2017,Agustina Bazterrica,3.27,11
+Fierce King,2021,Sadie Kincaid,3.73,15
+El amor en los tiempos del cólera,1985,Gabriel García Márquez,4.09,47
+Les Misérables,1800,Victor Hugo,4.38,40
+The Way of Kings,2010,Brandon Sanderson,4.59,125
+Psicología oscura,2019,Steven Turner,4.00,28
+Cujo,1981,Stephen King,3.82,40
+Americanah,1969,Chimamanda Ngozi Adichie,3.84,38
+"Frotiers Peace Treaties, and International Organization",1914,Vincent van Gogh,4.28,18
+Autobiografía Malcolm X,1965,Alex Haley,4.14,22
+Crooked Kingdom,2016,Leigh Bardugo,4.46,26
+Never Let Me Go,2005,Kazuo Ishiguro,3.64,55
+All About Love,2000,Bell Hooks,4.00,33
+8 Rules of Love,2023,Jay Shetty,3.62,26
+Keeper of the Lost Cities (Keeper of the Lost Cities #1),2012,Shannon Messenger,4.67,48
+Death on the Nile,1937,Agatha Christie,4.16,19
+Simon vs. the Homo Sapiens Agenda,2015,Becky Albertalli,4.32,40
+Gone With the Wind,1936,Margaret Mitchell,3.48,40
+The Pillars of the Earth,1800,Ken Follett,4.15,55
+Nick and Charlie: A Solitaire Novella,2015,Alice Oseman,4.62,16
+"The Complete Sherlock Holmes [4 novels, 56 stories]",1900,Arthur Conan Doyle,4.49,43
+Goodnight Moon,1947,Margaret Wise Brown,4.15,59
+Dork Diaries Collection,2020,Rachel Renée Russell,4.24,25
+The Bluest Eye,1970,Toni Morrison,4.25,24
+Paper towns,2008,John Green,3.89,64
+Caraval,2000,Stephanie Garber,3.70,23
+Ἰλιάς,1505,Όμηρος (Homer),3.96,69
+Elvis and me,1985,Priscilla Beaulieu Presley,4.88,16
+Microbiology: an introduction,1982,Gerard J. Tortora,4.47,17
+Objective NCERT at your FINGERTIPS for NEET-AIIMS - Biology,2020,MTG Editorial Board,3.97,31
+King of Greed,2023,Ana Huang,3.88,8
+Dark Psychology,2017,Modern Psychology Publishing,4.40,10
+The Martian Chronicles,1950,Ray Bradbury,4.06,97
+The Colour of Magic,1983,Terry Pratchett,4.00,122
+Blink: The Power of Thinking Without Thinking,2004,Malcolm Gladwell,3.78,76
+Smile,2010,Raina Telgemeier,4.65,71
+The Twits,1967,Roald Dahl,3.92,49
+The Fine Print,2021,Lauren Asher,4.12,25
+La sombra del viento,2001,Carlos Ruiz Zafón,4.13,38
+Stellaluna,1990,Janell Cannon,4.39,103
+The Viscount Who Loved Me,2000,Julia Quinn,4.33,33
+Black Ties and White Lies,2023,Kat Singleton,3.29,14
+The birth dearth,1987,Ben J. Wattenberg,4.80,10
+Breaking Dawn,2008,Stephenie Meyer,3.49,96
+The Ugly Truth,2001,Jeff Kinney,4.16,73
+The Crucible,1953,Arthur Miller,3.57,67
+Flatland,1884,Edwin Abbott Abbott,3.87,93
+ノルウェイの森,1987,村上春樹,3.87,97
+Powerless,2023,Lauren Roberts,3.83,12
+The coldest winter ever,1999,Sister Souljah,4.30,23
+Ice breaker,2022,Hannah Grace,3.94,17
+Fifty Shades Darker,2011,E. L. James,3.42,31
+Five Feet Apart,2018,Rachael Lippincott,4.52,33
+Eclipse,2006,Stephenie Meyer,3.55,94
+Cell,2006,Stephen King,3.65,115
+"After (After Series, Book 1)",2014,Anna Todd,4.22,45
+Cinder,2011,Marissa Meyer,4.12,40
+The Hidden Oracle: Trials of Apollo,2014,Rick Riordan,4.54,50
+Daisy Jones &amp; The Six: A Novel,2019,Taylor Jenkins Reid,3.85,34
+Hard Luck,2001,Jeff Kinney,4.08,65
+"Heartstopper, Volume 3",2020,Alice Oseman,4.74,23
+The Adventures of Captain Underpants,1997,Dav Pilkey,4.25,55
+Perfume: The Story of a Murderer,1985,Patrick Süskind,3.80,61
+The Third Wheel,2003,Jeff Kinney,4.10,62
+Las 48 leyes del poder,1998,Robert Greene,4.10,20
+Bumi manusia,1972,Pramoedya Ananta Toer,4.75,36
+On The Road,1957,Jack Kerouac,3.45,74
+Crank,2001,Ellen Hopkins,4.48,25
+Dork Diaries 3,2008,Rachel Renée Russell,4.22,50
+The C Programming Language,1978,Brian W. Kernighan,4.25,36
+Brutal Prince,2020,Sophie Lark,3.61,18
+The Murder of Roger Ackroyd,1926,Agatha Christie,4.12,51
+The untethered soul,2007,Michael A. Singer,4.28,18
+The Haunting of Hill House,1959,Shirley Jackson,4.03,63
+When Breath Becomes Air,2016,Paul Kalanithi,3.82,22
+Destroy Me,2012,Tahereh Mafi,4.40,15
+A Clash of Kings,1998,George R. R. Martin,4.30,172
+Hábitos atómicos / Atomic Habits,2016,James Clear,4.12,17
+The Return of the King,1950,J.R.R. Tolkien,4.37,86
+Das Kapital,1867,Karl Marx,4.50,14
+The Psychology of Everyday Things,1988,Donald A. Norman,4.10,52
+Turtles All the Way Down,2017,John Green,4.33,52
+An Offer from a Gentleman,2001,Julia Quinn,3.75,20
+Oliver Twist,1838,Charles Dickens,4.03,65
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales,1980,Oliver Sacks,4.06,53
+Dune Messiah,1969,Frank Herbert,3.89,112
+Redeeming Love,1991,Francine Rivers,4.32,31
+The Clan of the Cave Bear,1900,Jean M. Auel,4.13,61
+Priest,2015,Sierra Simone,4.56,9
+My Fault,2021,Mercedes Ron,3.82,11
+Gorin no sho,1963,Miyamoto Musashi,3.33,15
+A Christmas Carol,1843,Charles Dickens,3.89,81
+Don Quixote,1600,Miguel de Cervantes Saavedra,3.77,44
+I will teach you to be rich,2009,Ramit Sethi,4.50,10
+Insurgent,2011,Veronica Roth,3.98,91
+Atlas Shrugged,1936,Ayn Rand,3.32,100
+Bared to You,2012,Sylvia Day,4.31,16
+The Bazaar of Bad Dreams,2015,Stephen King,4.10,30
+Mercury and me,1995,Jim Hutton,4.05,20
+The artist&#39;s way: a spiritual path to higher creativity,1992,Julia Cameron,3.38,13
+The Graveyard Book,2008,Neil Gaiman,4.23,104
+Meditations,2006,Marcus Aurelius,3.33,6
+Calculus,1986,James Stewart,4.06,17
+Naledi his love,2015,Dudu Busani-Dube,3.81,21
+Pillow thoughts,2017,Courtney Peppernell,4.33,12
+Project Hail Mary,2021,Andy Weir,4.47,99
+Before December,2021,Joana Marcus,4.37,41
+Uno siempre cambia al amor de su vida,2013,Amalia Andrade Arango,4.20,25
+"After We Collided (After Series, Book 2)",2014,Anna Todd,4.30,20
+The Wealth of Nations,1776,Adam Smith,4.07,27
+Мастер и Маргарита,1966,Михаил Афанасьевич Булгаков,4.20,74
+Snow Crash,1992,Neal Stephenson,4.03,172
+Jung&#39;s map of the soul,1998,Murray Stein,4.70,27
+How to read a book: the art of getting a liberal education,1940,Mortimer J. Adler,4.33,15
+Diary of an Oxygen Thief,2006,Anonymous,4.38,8
+"Full Dark, No Stars",2010,Stephen King,4.07,42
+Giovanni&#39;s Room,1956,James Baldwin,4.21,29
+Hyperion,1989,Dan Simmons,4.19,133
+"Rich Dad, Poor Dad 2 (Rich Dad)",2000,Robert T. Kiyosaki,4.38,8
+The Joy Luck Club,1989,Amy Tan,4.00,43
+Ikigai,2021,Chiemi Souen,4.10,10
+Manifest der Kommunistischen Partei,1848,Karl Marx,3.39,67
+Manifest der Kommunistischen Partei,1848,Karl Marx,3.39,67
+The hidden hindu,2021,Akshat Gupta,3.85,20
+How to Become a People Magnet,2018,Marc Reklau,3.50,8
+"Gödel, Escher, Bach: An Eternal Golden Braid",1979,Douglas R. Hofstadter,4.19,59
+Miss Nelson is missing!,1977,Harry Allard,4.04,26
+The Girl Who Drank the Moon,2016,Kelly Regan Barnhill,4.00,29
+Everything I Know About Love,2018,Dolly Alderton,2.43,7
+Inferno,2013,Dan Brown,3.72,53
+Persuasion,1789,Jane Austen,4.27,33
+War and Peace,1864,Лев Толстой,4.52,23
+Peter Pan,1911,J. M. Barrie,3.72,32
+Mythology: Timeless Tales of Gods and Heroes,1940,Edith Hamilton,4.17,18
+The Age of Innocence,1920,Edith Wharton,3.48,42
+Miss Peregrine&#39;s Home for Peculiar Children,2011,Ransom Riggs,4.61,31
+The Red Pyramid,2010,Rick Riordan,4.19,42
+One of us is next,2020,Karen M. McManus,3.94,17
+Mere Christianity,1943,C.S. Lewis,4.38,39
+World War Z: An Oral History of the Zombie War,2006,Max Brooks,3.89,110
+Think Again,2021,Adam Grant,3.59,22
+Aplikasi Analisis Multivariate Dengan Program IBM SPSS 25 (9th ed),2018,"Imam ghozali, 2018",4.15,33
+The Night Circus,2011,Erin Morgenstern,4.25,52
+Anatomy: descriptive and surgical,1858,Henry Gray F.R.S.,4.30,20
+En man som heter Ove,2012,Fredrik Backman,4.22,55
+The kiss quotient,2018,Helen Hoang,4.25,8
+Spare,2023,"Prince Harry, Duke of Sussex",3.87,23
+Parable of the sower,1993,Octavia E. Butler,4.53,36
+The Lost Symbol,2009,Dan Brown,3.61,76
+Red Dragon,1981,Thomas Harris,4.23,30
+The Silence of the Lambs,1988,Thomas Harris,4.17,35
+For Whom the Bell Tolls,1940,Ernest Hemingway,3.47,15
+Learning Python,1999,Mark Lutz,4.09,11
+Mr. Mercedes,2013,Stephen King,4.10,42
+"Act Like a Lady, Think Like a Man: What Men Really Think About Love, Relationships, Intimacy, and Commitment",2006,Steve Harvey,4.45,11
+She Is the Poem,2022,June Bates,4.56,9
+Just Mercy,1600,Bryan Stevenson,4.21,24
+海辺のカフカ,2001,村上春樹,4.05,73
+Steal like an artist,2012,Austin Kleon,4.08,39
+"Heartstopper, Volume 4",2021,Alice Oseman,4.38,21
+Death of a Salesman,1940,Arthur Miller,4.04,57
+My side of the mountain,1959,Jean Craighead George,4.11,38
+2001: A Space Odyssey,1968,Arthur C. Clarke,4.16,116
+La Peste,1942,Albert Camus,3.90,20
+Imaginaria,2018,Kristopher Rodas,4.65,31
+The Darkest Minds,2012,Alexandra Bracken,4.00,37
+You&#39;re Too Good to Feel This Bad,2020,Nate Dallas,3.82,11
+Mastery,2012,Robert Greene,3.96,25
+The One and Only Ivan,2011,Katherine Applegate,4.38,42
+Principles of marketing,1980,Philip Kotler,4.69,13
+"Bud, Not Buddy",1994,Christopher Paul Curtis,4.61,28
+One of us is next,2020,Karen M. McManus,3.94,17
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,1974,Robert M. Pirsig,3.85,110
+Il nome della rosa,1980,Umberto Eco,4.15,99
+Atonement,1808,Ian McEwan,3.71,38
+Study Guide,2017,SuperSummary,3.25,4
+The Mysterious Affair at Styles,1920,Agatha Christie,3.93,55
+The Man in the High Castle,1962,Philip K. Dick,3.56,105
+Night Shift,1960,Stephen King,4.46,24
+If You Could See the Sun,2022,Ann Liang,4.17,6
+The Satanic Verses,1988,Salman Rushdie,3.62,24
+Everything is F*cked,2019,Mark Manson,3.63,19
+πολιτεία,1554,Πλάτων,3.78,50
+The Ocean at the End of the Lane,2013,Neil Gaiman,4.12,105
+The Second Sex,1949,Simone de Beauvoir,4.17,12
+Fifty Shades Freed,2011,E. L. James,3.48,31
+Moonwalking with Einstein,2011,Joshua Foer,3.89,35
+Watchmen,1987,Alan Moore,4.40,180
+The Glass Castle,2005,Jeannette Walls,4.40,45
+The millionaire next door,1996,Thomas J. Stanley,3.96,24
+Women in Love,1877,David Herbert Lawrence,3.60,15
+Time Traveler&#39;s Wife,2003,Audrey Niffenegger,4.10,48
+Half Girlfriend,2014,Chetan Bhagat,3.62,24
+The Complete Maus,1986,Art Spiegelman,4.61,70
+The Sword of Summer,2015,Rick Riordan,4.32,40
+Maybe You Should Talk to Someone,2019,Lori Gottlieb,4.23,22
+The Left Hand of Darkness,1900,Ursula K. Le Guin,4.32,37
+Outwitting the devil,2011,Napoleon Hill,4.60,15
+Kindred,1979,Octavia E. Butler,4.44,39
+How to Stop Worrying and Start Living,1936,Dale Carnegie,4.50,10
+1st to Die,2001,James Patterson,4.45,22
+Prince Caspian,1951,C.S. Lewis,3.96,85
+The compound effect,2010,Darren Hardy,4.71,7
+After,2014,Anna Todd,4.50,14
+Passing,1929,Nella Larsen,4.22,9
+The Immortal Life of Henrietta Lacks,2009,Rebecca Skloot,4.21,39
+The 33 Strategies of War,1998,Robert Greene,4.30,10
+The obstacle is the way,2014,Ryan Holiday,3.70,23
+American Roommate Experiment,2022,Elena Armas,3.43,14
+The House on Mango Street,1983,Sandra Cisneros,3.90,31
+Man&#39;s Search for Meaning [adaptation],2006,Viktor E. Frankl,3.57,7
+Five Nights at Freddy&#39;s Character Encyclopedia (an AFK Book) (Media Tie-In),2023,Scott Cawthon,4.07,27
+Stardust,1997,Neil Gaiman,3.87,71
+Psychology,1989,Wayne Weiten,4.35,17
+The Screwtape Letters,1942,C.S. Lewis,4.15,27
+Watership Down,1972,Richard Adams,4.13,84
+Flow,1990,Mihaly Csikszentmihalyi,4.07,28
+The Strength in Our Scars,2018,Bianca Sparacino,4.38,8
+Cat&#39;s Cradle,1963,Kurt Vonnegut,3.99,99
+A Good Girls Guide to Murder,2019,Holly Jackson,3.40,5
+Little girl lost,1990,Drew Barrymore,4.20,5
+One thousand ways to make  $1000,1940,Frances Mary Cowan Minaker,3.64,22
+My Year of Rest and Relaxation,2018,Ottessa Moshfegh,4.00,23
+La Nuit,1955,Elie Wiesel,4.68,25
+Solitaire,2014,Alice Oseman,4.73,11
+The daily stoic,2016,Ryan Holiday,4.20,5
+The Daily Laws,2021,Robert Greene,3.56,9
+Mindset,2006,Carol S. Dweck,4.40,5
+Introduction to Psychology,1956,Clifford Thomas Morgan,3.50,16
+A Study in Scarlet,1887,Arthur Conan Doyle,3.90,82
+Something I Never Told You,2019,Shravya Bhinder,4.45,11
+Allegiant,2001,Veronica Roth,4.08,64
+Red Queen,2015,Victoria Aveyard,4.12,24
+The Exorcist,1971,William Peter Blatty,4.00,13
+A Room of One&#39;s Own,1929,Virginia Woolf,4.17,23
+Biology,1987,Neil Alexander Campbell,3.89,18
+Into the Wild,1996,Jon Krakauer,3.83,64
+Psycho-cybernetics,1960,Maxwell Maltz,3.83,6
+Paradise Lost,1667,John Milton,3.72,25
+Final Offer,2023,Lauren Asher,3.75,20
+"Tale of Despereaux: being the story of a mouse, a princess, some soup, and a spool of thread",2003,Kate DiCamillo,4.02,46
+George&#39;s Marvelous Medicine,1981,Roald Dahl,3.66,41
+Scythe,2016,Neal Shusterman,4.53,17
+Demian: Die Geschichte von Emil Sinclairs Jugend,1919,Hermann Hesse,4.11,37
+Silent Vows,2022,Jill Ramsower,4.44,9
+Fox in Socks,1965,Dr. Seuss,4.07,27
+The art of loving,1956,Erich Fromm,3.81,27
+Refugee,2017,Alan Gratz,3.86,29
+Big Shot,2016,Jeff Kinney,4.47,17
+The Dead Zone,1882,Stephen King,4.17,35
+Gerald&#39;s Game,1992,Stephen King,3.73,30
+Wolves of the Calla,2003,Stephen King,4.04,170
+The Dark Prophecy,2017,Rick Riordan,4.72,29
+Crown of Midnight,2013,Sarah J. Maas,4.68,25
+The Hound of the Baskervilles,1900,Arthur Conan Doyle,3.95,43
+The Jungle,1905,Upton Sinclair,3.93,42
+Wicca,1988,Scott Cunningham,3.84,19
+The monk who sold his Ferrari,1996,Robin S. Sharma,3.94,16
+Roller Girl,2014,Victoria Jamieson,4.48,52
+Ostatnie Życzenie,1993,Andrzej Sapkowski,4.04,47
+Airframe,1751,Michael Crichton,3.71,79
+the words i wish i said,2018,caitlin kelly,3.58,12
+Tempest,1611,William Shakespeare,3.98,49
+The Almanack of Naval Ravikant,2020,Eric Jorgenson,4.60,5
+The Nightingale,2000,Kristin Hannah,4.63,30
+Becoming Supernatural,2018,Dr. Joe Dispenza,3.60,5
+I Want to Die but I Want to Eat Tteokbokki,2022,Baek Sehee,3.62,13
+The Girl on the Train,2014,Paula Hawkins,3.62,71
+Do It Today,2018,Darius Foroux,3.08,13
+Chicka chicka boom boom,1989,Bill Martin Jr.,3.81,26
+The art of thinking clearly,2013,Rolf Dobelli,4.19,16
+Baby Einstein,2001,Julie Aigner-Clark,3.69,13
+Through the Looking-Glass,1871,Lewis Carroll,3.91,45
+Mrs. Dalloway,1925,Virginia Woolf,3.69,39
+Winnie-the-Pooh,1925,A. A. Milne,4.13,52
+Crazy Rich Asians,2013,Kevin Kwan,4.09,32
+Maurice,1971,Edward Morgan Forster,3.92,12
+Dork Diaries: Tales from a Not-so-friendly frenemy,2016,Rachel Renée Russell,4.16,38
+A Farewell to Arms,1929,Ernest Hemingway,3.70,47
+The Satanic Bible,1969,Anton Szandor LaVey,4.26,19
+The way of the superior man,1997,David Deida,5.00,7
+City of Bones: The Mortal Instruments Book 1,2007,Cassandra Clare,4.02,56
+Fundamentals of physics,1970,David Halliday,4.41,17
+The Secret Language of Relationships,1997,Gary Goldschneider,4.29,7
+You&#39;d Be Home Now,2021,Kathleen Glasgow,4.09,11
+We Have Always Lived in the Castle,1962,Shirley Jackson,4.36,45
+The Screaming Staircase,2013,Jonathan Stroud,4.52,21
+Heir of Fire,2014,Sarah J. Maas,4.10,29
+On the origin of species by means of natural selection,1859,Charles Darwin,4.20,20
+Ulysses,1920,James Joyce,3.53,15
+Regretting You,2019,Colleen Hoover,4.80,5
+What If?,1980,Randall Munroe,4.34,91
+Social welfare and social work,1981,Thelma Lee-Mendoza,4.17,29
+The Giving Tree,1964,Shel Silverstein,4.21,90
+Refugee,2017,Alan Gratz,3.86,29
+1984 (adaptation),2003,Michael Dean,4.67,15
+Dotcom Secrets,2015,Russell Brunson,5.00,3
+Purple Hibiscus,2003,Chimamanda Ngozi Adichie,4.50,20
+Lonesome Dove,1985,Larry McMurtry,4.35,46
+Statistics for management,1978,Richard I. Levin &amp; David S. Rubin,3.58,12
+Getting Started Becoming a Master Hacker,2019,Occupytheweb,4.50,10
+Things Have Gotten Worse Since We Last Spoke,2021,Eric Larocca,2.88,8
+Behind closed doors,2016,Freida McFadden,3.46,13
+Братья Карамазовы,1880,Фёдор Михайлович Достоевский,4.32,47
+Companion Workbook : Atomic Habits,2019,Julie Ann Price,4.00,10
+The Return of Sherlock Holmes,1903,Arthur Conan Doyle,4.24,25
+Winnie-the-Pooh,1925,A. A. Milne,4.13,52
+Dark Matter,2016,Blake Crouch,4.05,66
+Never Split the Difference,2016,Chris Voss,4.00,11
+Abnormal psychology,1974,Gerald C. Davison,4.35,17
+Surrounded by Psychopaths,2020,Thomas Erikson,4.33,12
+Once Upon a Broken Heart,2021,Stephanie Garber,3.14,14
+The Wind in the Willows,1908,Kenneth Grahame,4.12,40
+One of Us is Lying,2017,Karen M. McManus,4.25,12
+Out of my mind,2010,Sharon M. Draper,4.64,25
+$100M Offers,2021,Alex Hormozi,4.67,12
+"&quot;Surely You&#39;re Joking, Mr. Feynman&quot;: Adventures of a Curious Character",1984,Richard Phillips Feynman,4.19,97
+Culpa tuya,2017,Mercedes Ron,3.94,18
+UNA VIDA SIN SALUD MENTAL,2022,ALBA GONZALEZ,4.29,34
+A Long Way Gone,2007,Ishmael Beah,4.12,34
+The Forty Rules of Love,2010,Elif Shafak,4.12,8
+Dream Psychology,2017,Sigmund Freud,4.33,9
+A Discovery of Witches,2011,Deborah E. Harkness,3.80,44
+From Blood and Ash,2020,Jennifer L. Armentrout,4.07,14
+Heartless,2016,Marissa Meyer,4.00,18
+The Sun Also Rises,1926,Ernest Hemingway,3.76,21
+sistem informasi akuntansi,2004,"Romney Marshall, B., and Paul Jhon Stein...",4.67,18
+Chicken Little (Read-Aloud Storybook),2005,RH Disney,3.63,27
+Losing hope,2013,Colleen Hoover,4.71,7
+The Witching Hour,1990,Anne Rice,4.24,21
+"The alchemist, 1612",1612,Ben Jonson,4.15,26
+The personal MBA,2012,Josh Kaufman,5.00,6
+A People&#39;s History of the United States: 1492-present,1980,Howard Zinn,4.00,35
+Tale of Peter Rabbit,1920,Beatrix Potter,3.87,38
+Gideon the Ninth,2019,Tamsyn Muir,4.26,57
+A Court of Silver Flames,2021,Sarah J. Maas,4.55,20
+The Phantom Prince: My Life with Ted Bundy,1981,Elizabeth Kendall,3.67,3
+She comes first: the thinking man&#39;s guide to pleasuring a woman,2004,Ian Kerner,3.86,14
+Rendezvous with Rama,1973,Arthur C. Clarke,4.17,89
+White Fang,1905,Jack London,3.96,52
+The Princess Bride,1973,William Goldman,4.21,89
+The selfish gene,1976,Richard Dawkins,4.37,60
+Killing floor,1997,Lee Child,3.72,32
+Little Fires Everywhere,2014,Celeste Ng,3.90,40
+Love and Other Words,2018,Christina Lauren,4.75,4
+"One Fish, Two Fish, Red Fish, Blue Fish",1960,Dr. Seuss,3.86,56
+Love Theoretically,2023,Ali Hazelwood,3.88,8
+ההיסטוריה של המחר,2015,Yuval Noah Harari,4.17,30
+Fear Street - The New Girl,1989,R. L. Stine,4.04,24
+The Rudest Book Ever,2019,Shwetabh Gangwar,4.50,14
+People We Meet On Vacation,2021,Emily Henry,4.00,13
+Crucial Conversations: Tools for Talking When Stakes are High,2001,Kerry Patterson,3.89,19
+We Have Always Lived in the Castle,1962,Shirley Jackson,4.36,45
+Introduction to Algorithms,1990,Thomas H. Cormen,4.05,19
+Rich Dad Poor Dad: 20th Anniversary Edition,2019,Robert T. Kiyosaki,4.60,5
+Mrs. Frisby and the Rats of Nimh,1970,Robert C. O&#39;Brien,4.05,40
+Concepts of physics,1993,Harish Chandra Verma,4.56,16
+Great Sf Heinlein Bxs,1980,Robert A. Heinlein,3.65,68
+3am Questions,2021,Annika M. Zimmermann,3.06,16
+The fire next time,1962,James Baldwin,4.52,29
+Maybe not,2014,Colleen Hoover,3.67,12
+Building a Second Brain,2022,Tiago Forte,3.83,6
+Como convencer alguém em 90 segundos (Portuguese Edition),2013,Nicholas Boothman,4.52,21
+Birthday Girl,2018,Penelope Douglas,4.50,4
+One Flew Over the Cuckoo&#39;s Nest,1962,Ken Kesey,4.11,27
+Harry Potter (series) 1-7,1999,J. K. Rowling,4.56,39
+Eldest,2005,Christopher Paolini,4.09,56
+Jenseits von Gut und Böse: prelude to a philosophy of the future,1885,Friedrich Nietzsche,4.31,16
+Terms and Conditions,2022,Lauren Asher,4.00,8
+Sharp Objects,2006,Gillian Flynn,3.76,25
+You/2: a high-velocity formula for multiplying your peronal effectiveness in quantum leaps,1987,Price Pritchett,3.64,11
+Make Your Bed: Little Things That Can Change Your Life...And Maybe the World,2017,William H. McRaven,3.86,7
+Jenseits von Gut und Böse: prelude to a philosophy of the future,1885,Friedrich Nietzsche,4.31,16
+Demon Slayer,2018,Koyoharu Gotōge,4.62,37
+Divina Commedia,1484,Dante Alighieri,3.83,24
+Losing hope,2013,Colleen Hoover,4.71,7
+Their Eyes Were Watching God,1937,Zora Neale Hurston,4.08,37
+Neverwhere,1996,Neil Gaiman,4.12,109
+Algorithms to Live By: The Computer Science of Human Decisions,2016,Brian Christian,3.97,36
+The Lost World,1900,Arthur Conan Doyle,3.94,33
+A Canticle for Leibowitz,1959,Walter M. Miller Jr.,3.82,67
+Every Summer After,2022,Carley Fortune,4.67,6
+Mindset,2006,Carol S. Dweck,3.69,13
+The Waste Lands,1991,Stephen King,4.16,73
+Every last word,2015,Tamara Ireland Stone,4.09,11
+Too Late,2016,Colleen Hoover,3.00,2
+Doctor Sleep,2013,Stephen King,4.21,34
+Different Seasons,1982,Stephen King,4.59,17
+Principles of Anatomy and Physiology,1975,Gerard J. Tortora,3.56,9
+Firestarter,1980,Stephen King,3.95,22
+Inferno,1782,Dante Alighieri,4.50,10
+The Assassin’s Blade: Throne of Glass Novellas,2014,Sarah J. Maas,4.45,11
+It Happened One Summer,2021,Tessa Bailey,3.00,6
+Norse Mythology,2016,Neil Gaiman,4.42,31
+Half of a Yellow Sun,2006,Chimamanda Ngozi Adichie,4.35,26
+"Why Nations Fail: The Origins of Power, Prosperity and Poverty",2012,Daron Acemoglu,3.60,25
+Paul Klee,1930,Paul Klee,3.64,14
+Bridge to Terabithia,1972,Katherine Paterson,4.02,46
+We&#39;ll Always Have Summer,2011,Jenny Han,4.19,16
+La Poetica,1479,Aristotle,3.67,12
+Danse Macabre,1980,Stephen King,3.87,112
+Physics,1472,Aristotle,3.71,17
+Show me!,1975,Will McBride,5.00,3
+Dragonflight,1968,Anne McCaffrey,4.06,35
+Treasure,1988,Clive Cussler,3.92,137
+Queen of Shadows,2015,Sarah J. Maas,4.64,22
+"Rica daida, puara daida",2003,Robert T. Kiyosaki,3.80,20
+The Awakening,1899,Kate Chopin,3.58,31
+Suicide notes,2008,Michael Thomas Ford,4.86,14
+How to Raise Your Own Salary,1953,Napoleon Hill,4.11,9
+The Vampire Lestat,1986,Anne Rice,4.29,38
+A New Earth,2005,Eckhart Tolle,3.84,19
+Painted Scars,2022,Neva Altaj,3.50,10
+"No, David!",1998,David Shannon,3.95,19
+What every BODY is saying,2008,Joe Navarro,3.58,12
+Walden,1854,Henry David Thoreau,4.00,25
+Origin,2013,Dan Brown,3.65,34
+Five Love Languages,1992,Gary D. Chapman,4.29,17
+Crying in H Mart,2021,Michelle Zauner,3.64,14
+Mindhunter,1995,John E. Douglas,3.82,11
+Little House in the Big Woods,1932,Laura Ingalls Wilder,3.96,46
+Attitude Is Everything,1999,Jeff Keller,4.00,11
+La casa de los espíritus,1982,Isabel Allende,4.40,15
+Introductory Mathematical Analysis,1973,Ernest F. Haeussler,3.00,3
+The Great Hunt (The Wheel of Time Book 2),1990,Robert Jordan,4.15,80
+A Confederacy of Dunces,1980,John Kennedy Toole,3.73,71
+Aghor Nagara Vage,1982,Mohanalāla Agravāla,3.76,17
+Nesnesitelná lehkost bytí,1984,Milan Kundera,4.20,70
+Redwall (Redwall #1),1986,Brian Jacques,4.12,32
+Being Mortal,2014,Atul Gawande,4.48,31
+The Tipping Point: How Little Things Can Make a Big Difference,2000,Malcolm Gladwell,3.80,90
+The antecedents of self-esteem / Stanley Coopersmith,1967,Stanley Coopersmith,4.69,13
+The Stepford Wives,1972,Ira Levin,3.45,22
+The Lean Startup,2011,Eric Ries,4.33,3
+The Notebook,1996,Nicholas Sparks,3.50,16
+Missing 411: Western United States and Canada,2011,David Paulides,3.44,9
+Dork Diaries 15: Tales from a Not-So-Posh Paris Adventure,2010,Rachel Renée Russell,4.74,23
+Heidi,1885,Johanna Spyri,3.98,41
+The Things We Leave Unfinished,2021,Rebecca Yarros,3.88,8
+The Queen of Nothing,2019,Holly Black,4.30,10
+On Earth We&#39;re Briefly Gorgeous,2019,Ocean Vuong,4.23,22
+Goosebumps - Welcome to Dead House,1992,R. L. Stine,4.12,26
+The Absolutely True Diary of a Part-Time Indian,2007,Sherman Alexie,3.61,28
+One True Loves,2016,Taylor Jenkins Reid,4.00,15
+Consider Me,2022,Becka Mack,3.67,3
+Charlie and the Great Glass Elevator,1972,Roald Dahl,3.41,46
+Deception Point,2001,Dan Brown,3.27,90
+Begin Smart,2008,Begin Smart Books,4.07,14
+The millionaire fastlane,2011,M. J. DeMarco,3.93,15
+Bunnicula,1979,Deborah Howe,4.14,21
+The Hiding Place,1971,Corrie ten Boom,4.53,19
+The Price of Salt,1952,Patricia Highsmith,4.55,20
+The Wise Man’s Fear,2011,Patrick Rothfuss,4.29,134
+A Touch of Darkness,2019,Scarlett St. Clair,5.00,4
+The Mountain Is You: Transforming Self-Sabotage into Self-Mastery,2020,Brianna Wiest,2.25,4
+Heal. Grow. Love.,2021,Pierre Alex Jeanty,4.00,6
+Master Your Emotions,2018,Thibaut Meurisse,3.00,8
+The moon is a harsh mistress,1965,Robert A. Heinlein,4.00,71
+Your Next Five Moves,2020,Patrick Bet-David,3.33,6
+"Revolution 2020: love, corruption, ambition",2011,Chetan Bhagat,3.50,26
+Are You My Mother?,1960,P. D. Eastman,4.30,54
+The lovely bones,2002,Alice Sebold,3.21,57
+Shapes in the Sky: A Book About Clouds (Amazing Science: Weather),2003,Josepha Sherman,3.92,13
+21 Lessons for the 21st Century,2018,Yuval Noah Harari,3.94,35
+The Lean Startup: How Today&#39;s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,2011,Eric Ries,4.11,47
+A New Earth,2005,Eckhart Tolle,3.84,19
+The Vampire Lestat,1986,Anne Rice,4.29,38
+"Rica daida, puara daida",2003,Robert T. Kiyosaki,3.80,20
+The Tower of Nero,2020,Rick Riordan,4.79,19
+Hearts in Atlantis,1998,Stephen King,3.96,27
+Stormbreaker,2000,Anthony Horowitz,3.94,31
+The Eyes of the Dragon,1959,Stephen King,4.38,24
+i too had a love story,2009,Ravinder Singh,3.62,13
+A Storm of Swords,2000,George R. R. Martin,4.44,95
+Diper Överlöde,2022,Jeff Kinney,4.41,17
+Save Me,2018,Kasten  Mona,3.18,11
+The Island of Dr. Moreau,1896,H. G. Wells,3.75,40
+Fabricante de lágrimas,2023,Erin Doom,3.67,21
+Hacking,2003,Jon Erickson,4.89,9
+Management information systems,1945,Kenneth C. Laudon,4.17,6
+The Burning Maze,2014,Rick Riordan,4.36,11
+Behave: The Biology of Humans at Our Best and Worst,2017,Robert M. Sapolsky,3.68,19
+Toxic Parents,1988,Susan Forward,3.00,8
+"To Sir Phillip, With Love",2003,Julia Quinn,3.88,17
+King of Sloth,2024,Ana Huang,4.00,8
+Deja de ser tú,2012,Rachel Copeland,3.27,11
+The Sun Also Rises,1926,Ernest Hemingway,3.76,21
+"Ready, Alice?",2005,Amanda Haley,4.31,26
+Consider Me,2022,Becka Mack,3.67,3
+Midnight&#39;s Children,1981,Salman Rushdie,3.88,34
+The Devil in the White City,2003,Erik Larson,3.94,51
+Annihilation,2014,Jeff VanderMeer,3.61,76
+Artificial intelligence: A modern approach,1994,Stuart J. Russell,4.16,19
+The Poppy War,2018,R. F. Kuang,3.75,36
+When He Was Wicked,2004,Julia Quinn,3.67,18
+A Dance With Dragons,2008,George R. R. Martin,4.41,34
+How To Talk To Anyone,2021,Steve Robinson,5.00,2
+Artemis Fowl,1999,Eoin Colfer,3.82,51
+Positive Personality Profiles,1994,Robert A Rohm Ph.D,3.20,10
+Tales of a Fourth Grade Nothing,1972,Judy Blume,4.12,25
+"Good Vibes, Good Life",2020,Vex King,2.56,9
+A walk to remember,1999,Nicholas Sparks,4.15,20
+Christine,1983,Stephen King,4.00,39
+Fantastic Beasts and Where to Find Them,2001,J. K. Rowling,3.84,50
+Shōgun (Asian Saga: Chronological Order #1),1975,James Clavell,4.29,24
+The scam,1993,Debashis Basu,4.92,13
+The secret life of bees,2000,Sue Monk Kidd,4.06,36
+Four Past Midnight,1990,Stephen King,3.95,19
+The Subtle Knife,1997,Philip Pullman,4.02,94
+Defy Me (Shatter Me),2019,Tahereh Mafi,4.75,12
+Station Eleven,2014,Emily St. John Mandel,4.10,70
+Behold a Pale Horse,1991,William Cooper,4.50,8
+Stellarlune (Keeper of the Lost Cities #9),2022,Shannon Messenger,4.78,18
+Tuck Everlasting,1975,Natalie Babbitt,3.81,42
+To the Lighthouse,1927,Virginia Woolf,3.72,25
+Candide,1746,Voltaire,3.94,68
+Invisible Man,1952,Ralph Ellison,4.06,16
+The Claiming of Sleeping Beauty,1983,Anne Rice,4.00,14
+Without Merit,2017,Colleen Hoover,2.25,4
+Mort,1987,Terry Pratchett,4.23,110
+Pulang,2015,Tere Liye,4.29,24
+"The Green Witch: Your Complete Guide to the Natural Magic of Herbs, Flowers, Essential Oils, and More",2017,Arin Murphy-Hiscock,4.71,7
+Foundation and Empire,1945,Isaac Asimov,4.09,123
+Then she was gone,2017,Lisa Jewell,4.70,10
+The power of now,2004,Eckhart Tolle,4.25,8
+Your Next Five Moves,2020,Patrick Bet-David,3.33,6
+"Girl, interrupted",1993,Susanna Kaysen,3.96,25
+Othello,1622,William Shakespeare,3.79,39
+"Il mio nome è Stilton, Geronimo Stilton",1999,Elisabetta Dami,4.23,22
+The Life-Changing Magic of Tidying Up,2014,Marie Kondo,3.53,55
+Start with why,2009,Simon Sinek,3.33,3
+Physics for scientists and engineers,1990,Paul A. Tipler,4.40,15
+Where the Sidewalk Ends: the poems &amp; drawings of Shel Silverstein.,1974,Shel Silverstein,4.06,81
+Lessons in Chemistry,2022,Bonnie Garmus,3.60,5
+Little House on the Prairie,1935,Laura Ingalls Wilder,4.43,14
+Segunda Fundação,1953,Isaac Asimov,4.32,119
+The Scorch Trials,2010,James Dashner,3.85,47
+Forever,1957,Judy Blume,3.83,6
+Needful Things,1900,Stephen King,4.05,19
+The Throne of Fire,2011,Rick Riordan,4.62,39
+Der Proceß,1925,Franz Kafka,4.21,48
+The City of Ember (The First Book of Ember),1998,Jeanne DuPrau,3.98,50
+Something Wicked This Way Comes,1962,Ray Bradbury,4.07,28
+Dubliners,1914,James Joyce,3.84,73
+Inqolobane yesizwe,1966,C. L. Sibusiso Nyembezi,4.48,21
+Into Thin Air: A personal account of the Everest disaster,1997,Jon Krakauer,4.38,32
+The six pillars of self-esteem,1994,Nathaniel Branden,4.82,11
+"Everything, Everything",2015,Nicola Yoon,4.28,29
+Monster,1999,Walter Dean Myers,3.94,18
+Memoirs of Sherlock Holmes [11 stories],1893,Arthur Conan Doyle,4.44,16
+Carmilla,1871,Joseph Sheridan Le Fanu,3.91,45
