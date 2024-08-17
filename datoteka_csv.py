@@ -4,7 +4,7 @@ from izluscevanje_podatkov import *
 
 def naredi_csv(datoteka):
     podatki = []
-    linki = pridobi_knjige("https://openlibrary.org/")
+    linki = pridobi_knjige(20)
     bloki_2 = izlusci_2(linki)
 
     for blokec in bloki_2:

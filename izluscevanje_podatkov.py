@@ -2,8 +2,9 @@ import requests
 import re
 
 
-def prenesi_html(url):
+def prenesi_html(stevilka_strani):
     """Funkcija, ki prenese html spletne strani, katere url podamo notri."""
+    url = f"https://openlibrary.org/people/PennyL/lists/OL112021L/Fiction?page={stevilka_strani}"
     html = requests.get(url)
     html.raise_for_status()
     with open("html", "w", encoding="utf-8") as dat:
@@ -11,10 +12,11 @@ def prenesi_html(url):
 
     return html.text
 
+prenesi_html("https://openlibrary.org/people/PennyL/lists/OL112021L/Fiction?")
 
 def izlusci(html):
     """Funkcija, ki iz podanega html izlušči blok.""" # bloki bodo knjige
-    vzorec = r'<div class="book carousel__item">.*?<div class="book-cta">'
+    vzorec = r'<div class="sri__main">.*?class="bookauthor">'
     bloki = re.findall(vzorec, html, flags=re.DOTALL)
     return bloki
 
@@ -22,7 +24,7 @@ def izlusci(html):
 def izlusci_iz_bloka(blok):
     """Funkcija, ki iz bloka izlušči url."""
     vzorec = re.compile(
-        r'<a href="(?P<url>.*?)" data-ol-link-track=', re.DOTALL
+        r'<a href="(?P<url>.*?)"><img', re.DOTALL
     )
     najdba = vzorec.search(blok)
     slovar = {}
@@ -34,16 +36,18 @@ def izlusci_iz_bloka(blok):
     return slovar
 
 
-def pridobi_knjige(url):
-    html = prenesi_html(url)
-    bloki = izlusci(html)
+def pridobi_knjige(stevilka_strani):
     linki = []
 
-    for blok in bloki:
-        podatki = izlusci_iz_bloka(blok)
-        url_knjige = podatki["url"]
-        if url_knjige:
-            linki.append(url_knjige)
+    for i in range(1, stevilka_strani + 1):
+        html = prenesi_html(i)
+        bloki = izlusci(html)
+
+        for blok in bloki:
+            podatki = izlusci_iz_bloka(blok)
+            url_knjige = podatki["url"]
+            if url_knjige:
+                linki.append(url_knjige)
 
     return linki
 
